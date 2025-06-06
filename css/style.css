@@ -1,0 +1,57 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 32px;
+  margin-top: 60px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 0 auto 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-top: 100px;
+}
+
+#contact {
+  margin-bottom: 50px;
+}
+
+#projects a,
+#contact a {
+  color: #00acee;
+}

@@ -51,6 +51,20 @@ section {
   margin-bottom: 50px;
 }
 
+.nav {
+  margin: 40px 0;
+}
+
+.nav a {
+  margin: 0 20px;
+  font-size: 18px;
+  color: white;
+}
+
+.nav a.active {
+  color: #00acee;
+}
+
 #projects a,
 #contact a {
   color: #00acee;
